@@ -1,2 +1,2 @@
 # Web_demo
-This is the demo of Git/Github class in detail.
+This is the demo of Git and Github class in detail.
